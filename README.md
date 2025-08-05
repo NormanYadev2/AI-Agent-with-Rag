@@ -1,4 +1,4 @@
-# Restaurant Review Chatbot with RAG and Agent
+# Ai Agent with Rag for resturant reviews
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot that answers questions about a pizza restaurant based on real customer reviews. It leverages LangChain, Ollama LLMs, and a Chroma vector database to deliver relevant and context-aware responses.
 
